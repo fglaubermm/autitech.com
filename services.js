@@ -24,7 +24,7 @@ img: "#"    },
         titulo: "Assistência Técnica",
         desc: "Manutenção e reparo de equipamentos",
         texto: "Realizamos consertos, upgrades e manutenção física para manter seus dispositivos funcionando perfeitamente.",
-        img: "img3.png"
+        img: "#"
     },
     {
         categoria: "automacao",
